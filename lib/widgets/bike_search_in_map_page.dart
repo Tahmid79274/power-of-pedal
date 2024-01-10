@@ -54,7 +54,6 @@ class _BikeSharePageState extends State<BikeSharePage> {
     super.initState();
   }
 
-
   @override
   void dispose(){
     fromTextEditingController.dispose();
